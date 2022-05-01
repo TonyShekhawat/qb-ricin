@@ -1,7 +1,12 @@
 # qb-ricin
  don't eat it
 
- Harvest a ricin plant for a ricin seed, process ricin seed, combine processed ricin with food and drinks. 
+ Harvest a ricin plant for a ricin seed, process ricin seed, combine processed ricin with food and drinks.
+ 
+ Step #1 harvest ricin plant: https://gyazo.com/563874a0692217386e9ad74a45863d20
+ Step #2 process ricin seed: https://gyazo.com/72892e24d491c2ef12d234bd713825e2
+ Step #3 combine ricin powder with food/drink: https://gyazo.com/c9a34b97eb906d98d496b9581388a36b
+ Step #4 poison someone: https://gyazo.com/872714da2cdc0f0c2e6ba3afdcfba9cd
  
  Add these items to your item list shared/items.lua:
 
